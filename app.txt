@@ -1,1 +1,2 @@
 This is my first file using Git on EC2
+Updated for from GitHub UI 
