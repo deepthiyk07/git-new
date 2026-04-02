@@ -1,5 +1,7 @@
 This is my first file using Git on EC2
 Updated for from GitHub UI
 This change is done in feature1 branch
-This is new branch
+This is new branc
 Change done in MAIN branch  
+Updated for the new branch  
+
