@@ -1,2 +1,3 @@
 This is my first file using Git on EC2
-Updated for from GitHub UI 
+Updated for from GitHub UI
+This change is done in feature1 branch 
